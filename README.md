@@ -14,7 +14,7 @@ Python + Flask 做的一个简单的问题系统，包括以下功能：
 
 Ubuntu下使用方法：
 
-1.下载仓库到本地：git clone https://github.com/cairns0214/Question-And-Answering-System.git
+1.下载仓库到本地
 
 2.切换到仓库所在路径：cd Question-And-Answering-System
 
