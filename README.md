@@ -16,7 +16,7 @@ Ubuntu下使用方法：
 
 1.下载仓库到本地
 
-2.切换到仓库所在路径：cd Question-And-Answering-System
+2.切换到仓库所在路径
 
 3.创建Python虚拟环境：先先删除项目中的venv文件夹然后使用如下命令创建Python虚拟环境virtualenv venv（如果没有这个工具可以使用$sudo apt-get install python-virtualenv命令进行安装）
 
